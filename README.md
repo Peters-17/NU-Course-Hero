@@ -4,12 +4,6 @@
 
 # NU Course Study Material forum --- NU Course Hero
 
-## Team Decent:
-Qingyuan Yao
-Haoyang yuan
-Xuewei Jiang
-Yidi Li
-
 ## Overview
 
 This site is about a forum for NU course material discuession. Users can create and log into their account. They can post the study matrials they want to discuss on the web for certain class, and others can add likes on it via registered users.
