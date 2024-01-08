@@ -1,5 +1,3 @@
-# Simple-Instagram
-
 <!-- The content below is an example project proposal / requirements document.  -->
 
 # NU Course Study Material forum --- NU Course Hero
