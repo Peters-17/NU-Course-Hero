@@ -113,3 +113,5 @@ app.get('/like/:jobid', like.like_func);
 ```
 app.get('/likelist', alllikes.alllikesfunc);
 ```
+## Demo:
+![image](https://github.com/Peters-17/NU-Course-Hero/assets/85666623/1fc5fd1d-07e7-4d11-a849-150e6d1131d1)
